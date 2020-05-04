@@ -70,9 +70,23 @@
 
 ### 5. 설계과정
 
-5.1 설계 기초이론
-ㆍ참고서적 
-  5.1.1 API함수
- - www.devpia.com (데브피아)
+5.1 설계 기초이론 <br>
+- 5.1.1 참고서적 
+  - API함수
+    - www.devpia.com (데브피아)
+    - https://msdn.microsoft.com/ko-kr/dn308572.aspx (MSDN)
+    - http://crystalcube.co.kr/123 
+    - http://forum.falinux.com/zbxe/index.php?document_srl=406372&mid=graphic (Wav 헤더 관련)
+    - http://bluelimn.tistory.com/entry/API-waveInOpen (녹음 관련)
+    - http://blog.naver.com/rains1230/220061356062 (파일 불러오기 관련)
+    - http://cafe.naver.com/cafec/241262 (키 감지 관련) <br>
+  - 쓰레드
+    - http://cafe.naver.com/cafec/354115
+    - http://egloos.zum.com/newkong/v/4006039
+ 
+  
+ - 파일 입출력
+  - 4주차 수업자료 (이진 파일 관련)
 
-
+- 5.2.1 소프트웨어 기능블록도 (개념설계) <br>
+![블록도](/img/런치패드-블록도.png)
